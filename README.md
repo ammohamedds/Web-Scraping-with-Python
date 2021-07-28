@@ -1,5 +1,7 @@
 # Web-Scraping-with-Python
 
+### Firstly: WEB Scraping by Using pandas read_html():
+
 Using pandas read_html() for Web Scrape Data to scrape the tables in NFL Footbal and NBA Basketball, then cleaning, then do quick EDA (Exploratory Data Analysis)
 
 https://www.pro-football-reference.com/years/2019/
