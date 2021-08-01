@@ -14,4 +14,4 @@ https://github.com/dataprofessor/code/blob/master/python/pandas_read_html_for_we
 
 
 
-### Firstly: Web Scraping with Beautiful Soup and Requests
+### Secondly: Web Scraping with Beautiful Soup and Requests
