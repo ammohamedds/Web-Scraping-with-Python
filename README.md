@@ -11,3 +11,7 @@ https://www.basketball-reference.com/leagues/NBA_2019_per_game.html
 This Activity is inspired from 
 
 https://github.com/dataprofessor/code/blob/master/python/pandas_read_html_for_webscraping.ipynb
+
+
+
+### Firstly: Web Scraping with Beautiful Soup and Requests
